@@ -8,6 +8,12 @@ public class Hello {
         // student 2 code
         System.out.println("World");
 
+        test();
+
+    }
+
+    public static void test() {
+
     }
 
 }
